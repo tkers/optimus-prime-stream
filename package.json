@@ -11,6 +11,7 @@
     "url": "git+https://github.com/Lapixx/optimus-prime.git"
   },
   "author": "Tijn Kersjes <tijn@divbyzero.nl>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Lapixx/optimus-prime/issues"
   },

@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lapixx/optimus-prime.git"
+    "url": "git+https://github.com/Lapixx/optimus-prime-stream.git"
   },
   "author": "Tijn Kersjes <tijn@divbyzero.nl>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Lapixx/optimus-prime/issues"
+    "url": "https://github.com/Lapixx/optimus-prime-stream/issues"
   },
-  "homepage": "https://github.com/Lapixx/optimus-prime#readme"
+  "homepage": "https://github.com/Lapixx/optimus-prime-stream#readme"
 }

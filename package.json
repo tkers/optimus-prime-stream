@@ -1,5 +1,5 @@
 {
-  "name": "optimus-prime",
+  "name": "optimus-prime-stream",
   "version": "0.0.1",
   "description": "NodeJS stream transformer",
   "main": "index.js",
